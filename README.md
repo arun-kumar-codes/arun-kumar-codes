@@ -112,8 +112,6 @@ I build production web and mobile applications end to end — React/Next.js fron
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </p>
 
-*(Generated automatically -- see `profile-3d.yml` workflow.)*
-
 ---
 
 ### Organizations
