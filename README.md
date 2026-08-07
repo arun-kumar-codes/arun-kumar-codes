@@ -1,6 +1,6 @@
 <h1 align="center">Arun Kumar</h1>
-<h3 align="center">Fullstack JavaScript Engineer · 8+ Years Experience</h3>
-<h4 align="center">React · React Native · Node.js · GraphQL · MongoDB</h4>
+<h3 align="center">Fullstack Developer · React · React Native · Node.js · AI-Integrated Apps</h3>
+<h4 align="center">8+ Years Experience · Top Rated Plus on Upwork</h4>
 
 <p align="center">
   <a href="mailto:arun.etech2011@gmail.com">Email</a> ·
@@ -12,51 +12,80 @@
   <img src="https://komarev.com/ghpvc/?username=arun-kumar-codes&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-### About
-
-Fullstack developer with **8+ years of experience** in the JavaScript ecosystem — building and shipping production web and mobile apps end to end, from data model and API through to UI.
-
-<!-- TODO: replace the lines below with your real numbers/outcomes — years of experience alone
-     won't carry a senior profile on its own; concrete specifics are what back it up. A few
-     examples of the kind of detail to aim for are included as placeholders. -->
-- 8+ years building production applications across web (React) and mobile (React Native)
-- Built and shipped `<N>` production applications — swap in a real count if you have one
-- Designed GraphQL/Relay APIs serving `<use case, e.g. "a recruitment platform used by X teams">`
-- Worked across the full stack: Node.js/Express APIs, MongoDB data layer, React/Redux frontends
-- Freelance engineer on Upwork — `<top-rated / job success score, if you have one>`
-
-📫 **arun.etech2011@gmail.com**
-
----
-
-### Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,js,ts,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14a800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5%20(61%20reviews)-14a800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Earnings-%24300K%2B-14a800?style=flat-square" />
 </p>
 
 ---
 
-### Selected Projects
+### About
 
-<!-- TODO: for each project, replace the description with what YOU did and what the outcome
-     was, not just the repo's tagline. "Built the auth + booking flow for a MERN travel app"
-     reads stronger than "MERN-based travel platform." -->
+Fullstack developer with **8+ years of experience**, currently freelancing as a **Top Rated Plus** engineer on Upwork (100% Job Success, 4.9/5 across 61 reviews, 81 completed jobs, 19K+ hours logged, $300K+ earned).
 
-**exo_quickplan** — Relay + GraphQL fullstack scaffold for bootstrapping projects without re-wiring boilerplate each time.
+I build production web and mobile applications end to end — React/Next.js frontends, Node.js/Express backends, and mobile apps in React Native — and have shipped several projects with AI-integrated features (automated ordering chatbots, AI-assisted SaaS workflows).
+
+- 🎓 B.Tech in Computer Science
+- 🏢 Excellence Technosoft Pvt Ltd
+- 💼 Available full-time (40–50 hrs/week), open to long-term and SaaS/enterprise engagements
+- 📫 **arun.etech2011@gmail.com**
+
+---
+
+### Skills
+
+**Frontend**
+`React` `Redux` `Next.js` `Vue.js` `Nuxt.js` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `GraphQL` `REST APIs` `Python`
+
+**Mobile**
+`React Native`
+
+**Databases**
+`MongoDB` `MySQL` `PostgreSQL`
+
+**Cloud & AI**
+`AWS` `AI Development` `Chatbot Integration` `AI-Powered SaaS Workflows`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vuejs,nuxtjs,ts,js,html,css,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,react" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,git,github" />
+</p>
+
+---
+
+### Recent Work (Upwork)
+
+<!-- TODO: these are pulled from your Upwork history -- rewrite the client's line into 1
+     sentence on what YOU did / delivered, once you've picked which projects to feature. -->
+
+- **Senior Frontend Engineer** -- Built a PWA platform (mobile + browser) from scaffold to production. `React · JavaScript · HTML`
+- **MVP Code Review & Optimization** -- Reviewed and optimized an existing MVP application. `React · Next.js · Node.js · PostgreSQL · Python · AWS`
+- **AI-Powered Event Planning SaaS** -- Contributed to an AI-assisted event-planning platform, including a web push notification service worker. `React Native · API`
+- **AI Ordering App (Chatbot)** -- Reviewed and completed a partially built SMS-based AI ordering application with chatbot integration. `Node.js · Firebase · Chatbot Training`
+- **Full Stack JavaScript (MEVN)** -- Built a business application on Vue/Nuxt/Express/MongoDB. `Vue.js · Nuxt.js · Node.js · MongoDB · MySQL`
+
+[See full work history on Upwork →](http://bit.ly/3CMp7Tf)
+
+---
+
+### Featured GitHub Projects
+
+**exo_quickplan** -- Relay + GraphQL fullstack scaffold for bootstrapping projects without re-wiring boilerplate each time.
 `Relay · GraphQL · Node.js`
 
-**HRrecruitapp** — End-to-end recruitment workflow app covering the candidate pipeline from application to hire.
+**HRrecruitapp** -- End-to-end recruitment workflow app covering the candidate pipeline from application to hire.
 `React · Node.js`
 
-**cloud_contact** — Cloud contact manager with auth and CRUD contact management.
+**cloud_contact** -- Cloud contact manager with auth and CRUD contact management.
 `React · Redux · Express · MongoDB`
 
-**travel_yari** — MERN travel booking platform.
+**travel_yari** -- MERN travel booking platform.
 `React · Node.js · MongoDB`
 
 [See all pinned repos →](https://github.com/arun-kumar-codes)
@@ -84,7 +113,7 @@ Fullstack developer with **8+ years of experience** in the JavaScript ecosystem 
 </p>
 </details>
 
-*(Both generated automatically — see `snake.yml` and `profile-3d.yml` workflows.)*
+*(Both generated automatically -- see `snake.yml` and `profile-3d.yml` workflows.)*
 
 ---
 
@@ -94,4 +123,4 @@ Fullstack developer with **8+ years of experience** in the JavaScript ecosystem 
 
 ---
 
-<p align="center"><sub>Open to remote roles and freelance collaborations.</sub></p>
+<p align="center"><sub>Open to remote roles, freelance, and long-term engagements.</sub></p>
